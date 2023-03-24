@@ -1,2 +1,2 @@
 # talkbank_analysis
- Cross-sectional and longitudinal analysis on data from the TalkBank database
+ Cross-sectional and longitudinal analysis of data from the TalkBank database
